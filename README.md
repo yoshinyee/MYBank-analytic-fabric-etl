@@ -181,6 +181,8 @@ MYBank-analytic-fabric-etl/
 │
 ├── README.md
 │
+├── LICENSE
+│
 ├── notebooks/
 │   ├── Bronze_Fabric.ipynb
 │   ├── Silver_Fabric.ipynb
@@ -190,6 +192,7 @@ MYBank-analytic-fabric-etl/
 │   └── MYBank_Report.pdf
 │
 └── screenshot/
+    ├── MYBank_Lakehouse_SQL.png
     ├── MYBank_Report_Correlation.png
     ├── MYBank_Report_Indicator.png
     └── MYBank_Report_Overview.png
@@ -251,7 +254,6 @@ The analysis is based on historical market data and should not be considered fin
 
 ## 👩‍💻 Author
 
-yoshinyee
 Built as a portfolio project demonstrating an end-to-end Fabric + Power BI pipeline — from
 raw ingestion through cleaning, dimensional modeling, and interactive reporting.
 
